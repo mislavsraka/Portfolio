@@ -1,6 +1,6 @@
 # Devcamp Portfolio Application
 
-< This is a Ruby on Rails 5 application that allows users to create own portpolios.
+> This is a Ruby on Rails 5 application that allows users to create own portfolios.
 
 ### Features
 
@@ -15,8 +15,4 @@
 def my_great_method
    puts "here it is"
 end
-´´´
-
-```javascript
-alert('Hi there');
 ´´´
